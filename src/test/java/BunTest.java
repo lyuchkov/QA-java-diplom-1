@@ -19,6 +19,4 @@ public class BunTest {
 
         assertEquals(DEFAULT_PRICE, bun.getPrice(), 0.0001);
     }
-
-
 }
